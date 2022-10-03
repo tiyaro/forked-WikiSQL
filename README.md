@@ -1,5 +1,9 @@
 # WikiSQL
 
+<p>
+<a href="https://console.tiyaro.ai/explore?q=google/tapas-b&pub=google"> <img src="https://tiyaro-public-docs.s3.us-west-2.amazonaws.com/assets/try_on_tiyaro_badge.svg"></a>
+</p>
+
 [![Build Status](https://travis-ci.org/salesforce/WikiSQL.svg?branch=master)](https://travis-ci.org/salesforce/WikiSQL)
 
 A large crowd-sourced dataset for developing natural language interfaces for relational databases. WikiSQL is the dataset released along with our work [Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning](http://arxiv.org/abs/1709.00103).
